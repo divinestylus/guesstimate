@@ -6,6 +6,6 @@
 
 
 ## Tech Stack
-#### HTML | CSS | JavaScript | API - [https://forum.freecodecamp.org/t/free-api-inspirational-quotes-json-with-code-examples/311373]([https://restcountries.com/](https://forum.freecodecamp.org/t/free-api-inspirational-quotes-json-with-code-examples/311373))
+#### HTML | CSS | JavaScript | API - [https://forum.freecodecamp.org/t/free-api-inspirational-quotes-json-with-code-examples/311373](https://forum.freecodecamp.org/t/free-api-inspirational-quotes-json-with-code-examples/311373)
 
 ###### &copy; 2023 | Designed & Developed by [Sam B. Morris](https://github.com/divinestylus)
