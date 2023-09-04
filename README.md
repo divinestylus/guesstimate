@@ -3,7 +3,7 @@
 # Overview
 #### [Guesstimate](https://github.com/divinestylus/guesstimate) - A Guess Game App
 ###### Guesstimate is a web game application.
-<img src="./assets/guesstimate-game-view.png" alt="Guess Game View">
+<img src="./assets/guessstimate-game-view.png" alt="Guess Game View">
 
 ## Tech Stack
 #### HTML | CSS | JavaScript | API - [https://forum.freecodecamp.org/t/free-api-inspirational-quotes-json-with-code-examples/311373](https://forum.freecodecamp.org/t/free-api-inspirational-quotes-json-with-code-examples/311373)
