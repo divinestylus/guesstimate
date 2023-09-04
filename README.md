@@ -3,6 +3,7 @@
 # Overview
 #### [Guesstimate](https://github.com/divinestylus/guesstimate) - A Guess Game App
 ###### Guesstimate is a mini web guess game application. The goal of the game is to guess the lucky number between 0 and 24. You have 10 tries and one minute to do so.
+<img src="./assets/guesstimate-start-view.png" alt="Guess Game View">
 <img src="./assets/guessstimate-game-view.png" alt="Guess Game View">
 
 ## Tech Stack
